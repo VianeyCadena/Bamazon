@@ -18,6 +18,7 @@ It looks like this in action
 
 ## Technologies used
 - Node.js
+- MySQL Workbench
 - Inquire NPM Package
 - MySQL NPM Package
 - CLI Table NPM Package
