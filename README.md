@@ -9,7 +9,7 @@ In order to run this application you should have the MySQL database installed an
     - `npm i inquirer`
     - `npm i cli-table`
     - `npm i figlet`
-- Run the program with the command 'node bamazonCustomer.js'
+- Run the program with the command `node bamazonCustomer.js`
 
 ## Running the test
 It looks like this in action
