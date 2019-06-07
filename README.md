@@ -5,10 +5,10 @@ This is a simple command line application of an Amazon-like store front using No
 In order to run this application you should have the MySQL database installed and ready on your machine. If you have set up correctly on your computer MySQL, follow the next steps:
 - Clone the repo
 - Open the Terminal or Git Bash to install the npm packages neededs, in order to do this run the follow command:
-    - 'npm i mysql'
-    - 'npm i inquirer'
-    - 'npm i cli-table'
-    - 'npm i figlet'
+    - `npm i mysql`
+    - `npm i inquirer`
+    - `npm i cli-table`
+    - `npm i figlet`
 - Run the program with the command 'node bamazonCustomer.js'
 
 ## Running the test
